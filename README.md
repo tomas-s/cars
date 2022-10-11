@@ -5,6 +5,9 @@
 - [Octavia](#octavia)
 - [Peugeot 308](#peugeot-308)
 - [Golf](#golf)
+- [Toyota]()
+- [Hyiundai i30 combi]()
+- [Ford Focus]()
 
 
 ## Zaujmave odkazy
@@ -24,3 +27,7 @@
 
 ## Golf
 
+
+## Hyiundai
+- [Hyundai i30 1.4 73 kW](https://carvago.com/cs/auto/52147518/hyundai-i30-1-4-73-kw) cena: 10 300€, najazdene: 38 000km, rocnik:2013, stranka: carvago
+- [Hyundai i30 1.4 Classic 73 kW](https://carvago.com/cs/auto/51969618/hyundai-i30-1-4-classic-73-kw) cena: 9 060€, najazdene: 111 000km, rocnik: 2014, stranka carvago
