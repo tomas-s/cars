@@ -38,4 +38,9 @@
 
 
 ## Lexus
-- [Lexus is 250](https://auto.bazos.sk/inzerat/141829301/lexus-is-250.php) cena: 12 000€, najazdene:129 000km, rocnik: 2009, bazos - majitel
+- [Lexus is 250](https://auto.bazos.sk/inzerat/141829301/lexus-is-250.php) cena: 12 000€, najazdene:129 000km, rocnik: 2009,bazos  - majitel
+
+## Insignia combi
+- [Opel Astra ST 1.6 CDTI TOP ](https://auto.bazos.sk/inzerat/143024411/opel-astra-st-16-cdti-ss-110k-ecotec-innovation.php)
+- [PD Astra 2017 - 160km](https://auto.bazos.sk/inzerat/142683951/opel-astra-k-2017.php)
+- [TN 2017, 1,6CDTI 130km](https://auto.bazos.sk/inzerat/142874507/opel-astra-k.php)
